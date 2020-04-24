@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="textColor">#ffffff</color>
+    <color name="clientrequestsfragment_backgroundColor">#10314A</color>
+    <color name="approvedrequestsfragment_backgroundColor">#4CAF50</color>
+    <color name="profilefragment_backgroundColor">#74688A</color>
+</resources>

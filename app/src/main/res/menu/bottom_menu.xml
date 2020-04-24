@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profileFragment"
+        android:title="Profile"
+        android:icon="@drawable/ic_profile"
+        />
+
+
+    <item
+        android:id="@+id/requestsFragment"
+        android:title="Client Requests"
+        android:icon="@drawable/ic_clientrequests"
+        />
+
+
+    <item
+        android:id="@+id/approvedFragment"
+        android:title="Approved Requests"
+        android:icon="@drawable/ic_approvedrequests"
+        />
+
+
+</menu>
